@@ -13,3 +13,5 @@ The chosen region of the bucket was US (multiple regions in United States) with 
 4- At first, the two xlsx files were imported from the bucket. Then, a backup was made and after that the treatment with pandas begun.
 
 5- At the end, when the treatment finished, the chart of accounts was entire populated. So, the dataframe was saved as xlsx and I uploaded it to the "treated_files" folder in the bucket. A couple of lines of code was written to download a final local file too.
+
+6- In this repository there are the .py format downloaded from colab, the final .xlsx file and the .ipynb, which is the format from a google colab notebook.
